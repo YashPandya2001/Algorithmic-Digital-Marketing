@@ -1,0 +1,21 @@
+version: "3"
+services:
+  bd:
+    image: yash/yg-vs-bd:v1.0.0
+    container_name: yg-vs-bd
+    restart: "always"
+  es:
+    image: yash/yg-vs-es:v1.0.0
+    container_name: yg-vs-es
+    restart: "always"
+    ports:
+      - "9200:9200"
+  fd:
+    image: yash/yash_tensor:v3.0.0
+    container_name: yg-vs-fd
+    ports:
+      - "80:80"
+    depends_on:
+      - bd
+      - es
+    restart: "always"

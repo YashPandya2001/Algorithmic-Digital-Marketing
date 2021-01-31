@@ -1,0 +1,6 @@
+Main Dashboard - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCVZGA4&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=cf72f924-3e84-4ee4-b9fe-0a8c35c011ea&savedViewId=8wk5w000000g3EoAAI&analyticsContext=analyticsTab
+
+Defaulter By Income Category - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCQsGAO&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=112df963-8b04-4a03-abc1-0cc174a9e255&savedViewId=8wk5w000000g3EeAAI&analyticsContext=analyticsTab
+
+Defaulter By Age Category - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCV5GAO&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=112df963-8b04-4a03-abc1-0cc174a9e255&savedViewId=8wk5w000000g3EjAAI&analyticsContext=analyticsTab
+
